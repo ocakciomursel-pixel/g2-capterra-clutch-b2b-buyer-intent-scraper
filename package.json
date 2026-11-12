@@ -1,0 +1,22 @@
+{
+  "name": "g2-capterra-clutch-b2b-buyer-intent-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Extract SaaS product star ratings, verified review counts, pricing pages & B2B agency leads across G2, Capterra & Clutch.co for competitive intelligence, Clay.com waterfalls & n8n outbound ($0.80/1k).",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "keywords": [
+    "g2-scraper",
+    "capterra",
+    "clutch",
+    "competitive-intelligence",
+    "saas",
+    "b2b-leads",
+    "clay",
+    "n8n",
+    "mcp-server"
+  ],
+  "license": "MIT"
+}
